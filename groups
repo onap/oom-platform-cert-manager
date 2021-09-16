@@ -1,4 +1,5 @@
-# UUID                                                                                    	Group Name
+# UUID                                  	Group Name
 #
-0f31774ac0733c12786bdfe2b65c22abfd43b16f                                                  	saml/onap-gerrit-oom-platform-cert-manager-committers
-daebbf523be390041a1a9c0e340a6d833aae5043                                                  	GitHub Replication
+0f31774ac0733c12786bdfe2b65c22abfd43b16f	saml/onap-gerrit-oom-platform-cert-manager-committers
+5097f9d988070cc7f1dabdc48938c54b4fbde3b3	saml/onap-gitlab-read-only
+daebbf523be390041a1a9c0e340a6d833aae5043	GitHub Replication
